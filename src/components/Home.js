@@ -56,7 +56,7 @@ const Home = () => {
       console.log(err)
     })
     setIsLoading(false)
-  }, [])
+  }, [navigate])
 
   return (
     <>
