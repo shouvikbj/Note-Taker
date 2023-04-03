@@ -1,7 +1,7 @@
 {
   "manifest_version": 2,
-  "name": "Note Taker",
-  "short_name": "Note Taker",
+  "name": "Note Writer",
+  "short_name": "Note Writer",
   "start_url": "/",
   "display": "standalone",
   "background_color": "#FFFFFF",
