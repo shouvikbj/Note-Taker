@@ -3,7 +3,7 @@ import { Link, useNavigate } from 'react-router-dom'
 import Cookies from "js-cookie"
 
 // const API = "http://localhost:5001/api"
-// const API = "http://notetaker.pythonanywhere.com/api"
+// const API = "https://notetaker.pythonanywhere.com/api"
 
 const Navbar = () => {
     const navigate = useNavigate();

@@ -3,7 +3,7 @@ import Cookies from "js-cookie"
 import { Link, useNavigate } from 'react-router-dom'
 
 // const API = "http://localhost:5001/api"
-const API = "http://notetaker.pythonanywhere.com/api"
+const API = "https://notetaker.pythonanywhere.com/api"
 
 const Login = () => {
   const navigate = useNavigate()

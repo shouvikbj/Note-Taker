@@ -7,7 +7,7 @@ import Cookies from 'js-cookie';
 import Navbar from './Navbar'
 
 // const API = "http://localhost:5001/api"
-const API = "http://notetaker.pythonanywhere.com/api"
+const API = "https://notetaker.pythonanywhere.com/api"
 
 const AddNote = () => {
     const navigate = useNavigate()
