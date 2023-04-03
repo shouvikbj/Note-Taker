@@ -29,7 +29,7 @@ const Navbar = () => {
                     <img src="/logo.png" alt="Logo" width="30" height="24" className="d-inline-block align-text-top" 
                         style={{borderRadius: "10px"}}
                     />
-                    Note Taker
+                    Note Writer
                 </Link>
             </div>
         </nav>
